@@ -1,0 +1,35 @@
+{​​​​​​​​
+    "datosEstudiantes": [{​​​​​​​​
+            "nombre": "usuario",
+            "github": "https://github.com/usuario",
+            "neocites": "miportafolio.neocities.org",
+            "email": "usuario@dominio.com",
+            "telefono": "123456789",
+            "actividades": [{​​​​​​​​
+                    "actividad": "actividad 1",
+                    "estadouiux": "5%",
+                    "estadotecnico": "2%"
+                }​​​​​​​​,
+                {​​​​​​​​
+                    "actividad": "actividad 1",
+                    "estadouiux": "5%",
+                    "estadotecnico": "2%"
+                }​​​​​​​​,
+                {​​​​​​​​
+                    "actividad": "actividad 1",
+                    "estadouiux": "5%",
+                    "estadotecnico": "2%"
+                }​​​​​​​​
+            ],
+            "valoraciones": {​​​​​​​​
+                "valorhtml": "3%",
+                "valorcss": "4%",
+                "valorjs": "6%",
+                "valorui": "4%",
+                "valorux": "9%"
+            }​​​​​​​​,
+            "calificacion": "54%"
+        }​​​​​​​​,
+        
+    ]
+}​​​​​​​​
